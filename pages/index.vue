@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>都道府県別<br>総人口推移グラフ</h1>
+    <h1>都道府県別<br>総人口推移<br>グラフ</h1>
     <form>
       <label class="pref-label">都道府県</label>
       <b-form-checkbox-group v-model="checkedPrefCodes" class="pref-checkboxes">
